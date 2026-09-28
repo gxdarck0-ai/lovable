@@ -1,0 +1,7 @@
+{
+  "name": "Lovable",
+  "description": "Lovable Chrome Extension interface with native chat, project manager, and tools.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
